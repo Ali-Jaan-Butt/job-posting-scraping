@@ -1,2 +1,1 @@
-# Django Rest API
-# Job Posting Data
+# Job Posting Data Scraping
